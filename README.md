@@ -1,2 +1,2 @@
 # financeescape
-my own study
+own study
